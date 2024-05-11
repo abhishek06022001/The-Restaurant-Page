@@ -1,0 +1,21 @@
+
+
+#content { /* Corrected selector */
+    height: 30px;
+    width: 30px;
+    margin: 10px; /* Added margin for spacing between cards */
+    
+}
+
+.headingTitle {
+    background-color: aqua;
+    color: white;
+}
+.content{
+    display: flex;
+    background-color: aquamarine;
+    
+}
+.image{
+    height: 200px;
+}
